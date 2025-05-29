@@ -1,0 +1,8 @@
+Port:
+    88
+Domain:
+    vtscadaremote
+
+
+//Port = Puerto seleccionado en VTSCADA
+//Domain = Direccion de Enlace personalizado ///////////////    NO COLOCAR MAYUSCULAS    \\\\\\\\\\\\\\\\\\
